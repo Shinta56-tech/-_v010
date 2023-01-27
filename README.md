@@ -1,3 +1,3 @@
 # JankenGame
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/janengame)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/jankengame)
